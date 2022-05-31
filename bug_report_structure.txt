@@ -1,0 +1,10 @@
+1. Bug_id
+2. Title
+3. Steps To Reproduce
+4. Description
+-Actual Result 
+-Expected Result
+5. Environment
+7. Severity 
+8. Priority
+9. Attachments
